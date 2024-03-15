@@ -1,10 +1,10 @@
 # HW2
- Software Development. RestaurantApp
-БПИ224
-Лебедев Илья
+# Software Development. RestaurantApp
+# БПИ224
+# Лебедев Илья
 
 1. Для работы приложения нужно:
-  1) Открыть проект в IntellIJ IDEA
+  ) Открыть проект в IntellIJ IDEA
   2) Нажать правой кнопкой мыши на проект!
   3) Выбрать пункт "Open Module Settings"!
   4) Выбрать пункт "Dependencies"!
