@@ -1,5 +1,5 @@
 # HW2
-# Software Development. RestaurantApp
+# Software Engineering. RestaurantApp
 # БПИ224
 # Лебедев Илья
 
